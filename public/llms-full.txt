@@ -1,0 +1,75 @@
+# Kilian Diaz Miranda — Información del portafolio
+
+## Perfil
+**Nombre:** Kilian Diaz Miranda
+**Título:** Ingeniero de Sistemas y Computación | Desarrollador Full Stack
+
+## Áreas de habilidades
+### 01 — Lenguajes
+Lenguajes utilizados para el desarrollo de aplicaciones web, automatizaciones y gestión de datos.
+
+**Tecnologías y conocimientos**
+- JavaScript
+- TypeScript
+- Python
+- SQL
+
+### 02 — Frontend
+Desarrollo de aplicaciones web modernas, enfocadas en crear experiencias digitales funcionales, interactivas y eficientes.
+
+**Tecnologías y conocimientos**
+- Next.js
+- React
+- Vite
+- Bootstrap
+- Tailwind CSS
+
+### 03 — Backend
+Desarrollo de servicios y soluciones del lado del servidor para gestionar la lógica, funcionalidades y comunicación de aplicaciones web.
+
+**Tecnologías y conocimientos**
+- Node.js
+- Express.js
+- NestJS
+- JWT
+- OAuth
+
+### 04 — Bases de Datos
+Gestión y consulta de bases de datos relacionales y NoSQL mediante herramientas y tecnologías especializadas.
+
+**Tecnologías y conocimientos**
+- MySQL
+- MariaDB
+- MongoDB
+
+### 05 — Pruebas y Cloud
+Creación de pruebas automatizadas y uso de plataformas en la nube para el despliegue y administración de aplicaciones.
+
+**Tecnologías y conocimientos**
+- Jest
+- Vitest
+- Azure
+- Google Cloud
+- Vercel
+
+### 06 — Herramientas e IA
+Herramientas esenciales de desarrollo y uso de modelos de inteligencia artificial para apoyar y optimizar diferentes procesos.
+
+**Tecnologías y conocimientos**
+- Git
+- Linux
+- VS Code
+- Gemini
+- Claude Code
+- Google AI Studio
+
+## Integraciones externas
+- GitHub API pública para repositorios.
+- ORCID API pública para trabajos registrados.
+- Los datos externos se obtienen desde sus APIs y pueden conservarse temporalmente en `localStorage`.
+
+## Enlaces
+- [GitHub](https://github.com/KilianDiazMiranda)
+- [LinkedIn](https://www.linkedin.com/in/kiliandiazmiranda/)
+- [ORCID](https://orcid.org/0009-0008-5635-4111)
+- [Portafolio](https://www.kiliandiazmiranda.com/)
